@@ -13,4 +13,4 @@ Donate
 
 If you'd like to support the development of this open-source project and projects like it, please consider donating to
 
-0x52C51b2978e23AFf6B212f40EFdB29916cFEaF61 - ETH
+0xc7AF3A6f62066577C98Fdb3c119dE746df5e7B16 - ETH
